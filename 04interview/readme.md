@@ -1,0 +1,1 @@
+# interview perspective for creating a counter app in react 
